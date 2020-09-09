@@ -1,0 +1,6 @@
+framework module Pods_RequestDemo2 {
+  umbrella header "Pods-RequestDemo2-umbrella.h"
+
+  export *
+  module * { export * }
+}
